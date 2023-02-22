@@ -1,8 +1,8 @@
 ---
-id: forever-free
+id: Adele
 title: The Forever Free Tier
 sidebar_label: The Forever Free Tier
-slug: /forever-free
+slug: /Adele
 ---
 
 localhost.run offers a forever free plan that not only doesn't require a client download, it doesn't even require signup for short-lived tunnels.
